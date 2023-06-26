@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\newsoly\ProgramTax\bin\Debug\ProgramTax.exe.config
+C:\Users\admin\source\repos\newsoly\ProgramTax\bin\Debug\ProgramTax.exe
+C:\Users\admin\source\repos\newsoly\ProgramTax\bin\Debug\ProgramTax.pdb
+C:\Users\admin\source\repos\newsoly\ProgramTax\obj\Debug\ProgramTax.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\newsoly\ProgramTax\obj\Debug\ProgramTax.exe
+C:\Users\admin\source\repos\newsoly\ProgramTax\obj\Debug\ProgramTax.pdb
+C:\Users\admin\source\repos\newsoly\ProgramTax\obj\Debug\ProgramTax.csproj.AssemblyReference.cache
